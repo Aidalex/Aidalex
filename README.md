@@ -13,7 +13,8 @@ _Passionate about translating data into clear insights with Python, SQL, and vis
 ---
 
 ### 🌟 **Featured Projects**
-  ▶️ **Large-Scale Retail Analysis** [SQL]  
+
+▶️ **Large-Scale Retail Analysis** [SQL]  
    - _Processed and analyzed 5K+ records database with complex queries_  
    - _Optimized queries for performance on large datasets_  
    - [Explore project](https://github.com/Aidalex/EsercitazioneFinale_SQL.git)  
@@ -31,7 +32,7 @@ _Passionate about translating data into clear insights with Python, SQL, and vis
 
 ### 📂 **Portfolio & More** 
   🌐 **[Personal Website]** (Coming Soon)  
-     - _Data storytelling and project breakdowns_  
+       - _Data storytelling and project breakdowns_  
 🔹 **Database Expertise**: Experience with large datasets  
 🔹 **Team Player**: Successful collaborative projects using GitHub  
 🔹 **Full-Cycle Analysis**: From data extraction to actionable insights  
