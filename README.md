@@ -1,6 +1,6 @@
 👩🏻💻 Hey there, I'm Aida Alexandra Squadrito
 
-<!-- 📊 **Data Analyst Junior** | 🌍 Bilingual (IT/ES) | 📚 Economics Background 
+ 📊 **Data Analyst Junior** | 🌍 Bilingual (IT/ES) | 📚 Economics Background 
 _Passionate about translating data into clear insights with Python, SQL, and visualization tools._
 
 ---
