@@ -13,8 +13,8 @@ _Passionate about translating data into clear insights with Python, SQL, and vis
 ---
 
 ### 🌟 **Featured Projects**
-
-                                ▶️ **Large-Scale Retail Analysis** [SQL]  
+Ciao
+▶️ **Large-Scale Retail Analysis** [SQL]  
    - _Processed and analyzed 5K+ records database with complex queries_  
    - _Optimized queries for performance on large datasets_  
    - [Explore project](https://github.com/Aidalex/EsercitazioneFinale_SQL.git)  
