@@ -14,8 +14,8 @@ _Passionate about translating data into clear insights with Python, SQL, and vis
 
 ### 🌟 **Featured Projects** 
 ▶️ **E-Commerce Analytics Dashboard** [Power BI]
-   - _Built interactive report for Brazilian e-commerce Olist Store (2016-2018)_
-   - _Tracked revenue trends, order status, and customer ratings across 25 states_
+   - _Built interactive report e-commerce Store_
+   - _Tracked revenue trends, order status, and customer ratings_
    - _Featured dynamic filters and YoY comparisons_
    - [Explore report](https://github.com/Aidalex/EsercitazioneFinale_PowerBI.git)
 
@@ -32,9 +32,18 @@ _Passionate about translating data into clear insights with Python, SQL, and vis
    - _Optimized queries for performance on large datasets_  
    - [Explore project](https://github.com/Aidalex/EsercitazioneFinale_SQL.git)  
 
-▶️ **Team Data Project** *(Coming Soon)*  
+▶️ **Team Data Project** 👥  
    - _Collaborative analysis with version control and task delegation_  
-   - _Integrated multiple data sources for comprehensive insights_  
+   - _Integrated multiple data sources for comprehensive insights_
+   - 🏪 **Retail & E-commerce**
+     - [AdventureWorks BI Report](https://github.com/Aidalex/AdventureWorksReport_PowerBI_Team.git) - *Bicycle retail performance analysis*
+     - [VendiCose Database System](https://github.com/Aidalex/DBGestionaleSupermercato_MySQL_Team.git) - *Supermarket inventory management*
+   - 📊 **Market Research**
+     - [VANS vs CONVERSE Analysis](https://github.com/Aidalex/AnalisiCompetitorCalzature_Python_Team.git) - *Competitive intelligence via web scraping*
+   - 🎬 **Entertainment & Media**
+     - [Oscar Analysis 1980-2023](https://github.com/Aidalex/OscarAnalysis_LookerStudio_Team.git) - *Strategic insights for film investment decisions*
+   - 🏥 **Healthcare Analytics**
+     - [COVID-19 Strategic Analysis](https://github.com/Aidalex/Covid19DataAnalysis_Excel_Team.git) - *Pharmaceutical decision support*
 
 --- 
 
